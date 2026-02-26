@@ -8,6 +8,7 @@
 		"vscode": {
 			"extensions": [
 				"esbenp.prettier-vscode",
+				"dbaeumer.vscode-eslint",
 				"usernamehw.errorlens",
 				"yoavbls.pretty-ts-errors",
 				"vitest.explorer",
